@@ -12,3 +12,6 @@ pip install -U library_name
 
 Example:
 pip install -U scikit-learn
+
+URl for dataset to save is :
+https://bit.ly/w-data
