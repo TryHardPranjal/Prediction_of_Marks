@@ -1,5 +1,5 @@
 # Prediction_of_Marks
-Prediction of marks on an online dataset comprising of marks and hours studied using Linear regression.
+Prediction of marks project consists of using an online dataset comprising of marks and hours to predict new values using Linear regression.
 Libraries used are:
 1) Pyplot
 2) Pandas
